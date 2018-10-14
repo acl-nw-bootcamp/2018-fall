@@ -1,0 +1,16 @@
+.highlight {
+  background-color: yellow;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+}
+
+/* #main-menu li:first-of-type {
+  background-color: #444444;
+  color: white;
+} */
