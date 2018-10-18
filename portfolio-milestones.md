@@ -45,7 +45,7 @@
 
 - Use HandlebarsJS to template your data instead of HTML. 
 - Use jQuery to add your mock data to the DOM.
-- [README with more info](https://github.com/acl-301n-fall-2017/lab-04-templating/blob/master/PORTFOLIO-ASSIGNMENT.md)
+- [README with more info](https://github.com/acl-301n-fall-2017/lab-04-templates/blob/master/PORTFOLIO-ASSIGNMENT.md)
 
 
 ## form-building
