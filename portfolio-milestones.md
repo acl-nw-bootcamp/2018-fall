@@ -13,8 +13,6 @@
 1. [functional](#functional)
 1. [spa](#spa)
 1. [rest-api](#rest-api)
-1. [production](#production)
-1. [state](#state)
 
 
 
@@ -58,14 +56,14 @@
 
 - Re-work your mock-data into a JSON file.
 - Asynchronously retrieve your data. 
-- [README with more info](https://github.com/acl-nw-bootcamp/lab-06-ajax-json/blob/master/PORTFOLIO-ASSIGNMENT.md)
+- [README with more info](https://github.com/acl-nw-bootcamp/lab-06-ajax-json/blob/master/PORTFOLIO_ASSIGNMENT.md)
 
 
 ## node-express
 
 - Turn your portfolio into a Node app!
 - Add an express server to run your portfolio.  
-- [README with more info](https://github.com/acl-nw-bootcamp/lab-07-node-npm-express/blob/master/PORTFOLIO-ASSIGNMENT.md)
+- [README with more info](https://github.com/acl-nw-bootcamp/lab-07-node-npm-express/blob/master/PORTFOLIO_ASSIGNMENT.md)
 
 
 ## sql-postgres
@@ -91,12 +89,12 @@
 ## spa
 
 - Add PageJS to your portfolio so your web page will have routes.
-- [README with more info](https://github.com/acl-nw-bootcamp/lab-11-spa-routes/blob/master/PORTFOLIO-ASSIGNMENT.md)
+- [README with more info](https://github.com/acl-nw-bootcamp/lab-11-spa-routes/blob/master/PORTFOLIO_ASSIGNMENT.md)
 
 
 ## rest-api
 
 - **Don't push your GitHub token to GitHub**
 - Get and use some data from GitHub's API.
-- [README with more info](https://github.com/acl-nw-bootcamp/lab-12-REST-and-APIs/blob/master/PORTFOLIO-ASSIGNMENT.md)
+- [README with more info](https://github.com/acl-nw-bootcamp/lab-12-REST-and-APIs/blob/master/PORTFOLIO_ASSIGNMENT.md)
 
