@@ -15,6 +15,7 @@ Your team must adhere to the following requirements.
 * The site data must be modifiable by a user of the site (either a general user, account user, or admin user).
 * The web site must also utilize information from an external API.
 * 3rd party libraries should be used, such as JQuery, Handlebars, etc.
+* The web site should be designed in accordance with Mobile First practices.
 
 **Process:**
 
